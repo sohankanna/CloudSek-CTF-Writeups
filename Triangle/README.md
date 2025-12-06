@@ -1,8 +1,7 @@
-# Triangle 100 - Writeup
+# Triangle  - Writeup
 
 **Category:** Web Exploitation  
 **Vulnerability:** Backup File Disclosure & PHP Type Juggling  
-**Difficulty:** Medium
 
 ---
 
