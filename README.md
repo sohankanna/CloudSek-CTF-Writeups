@@ -38,4 +38,4 @@ Click on a challenge name to view the detailed write-up and exploit scripts.
 
 ## 🔗 More CTF Writeups
 This repository is part of my broader cybersecurity journey.
-👉 **[View my full CTF Trophy Case & Portfolio here](https://github.com/sohankanna/Your-Trophy-Case-Repo-Link)**
+👉 **[View my full CTF Trophy Case & Portfolio here](https://github.com/sohankanna/ctf-trophy-case)**
