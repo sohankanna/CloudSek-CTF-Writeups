@@ -31,7 +31,7 @@ Click on a challenge name to view the detailed write-up and exploit scripts.
 | :--- | :--- | :--- | :--- |
 | **[Ticket 100](./Ticket)** | 🌐 Hybrid (Web/Mobile) | 🔥 Hard | **Mobile OSINT** (BeVigil) → **Hardcoded Secrets** → **JWT Signature Forgery** |
 | **[Triangle 100](./Triangle)** | 🕸️ Web Exploitation | 🟠 Medium | **Backup File Disclosure** → **PHP Type Juggling** (Bypassing 2FA) |
-| **[Bad Feedback 100](./Bad%20Feedback)** | 🕸️ Web Exploitation | 🟠 Medium | **XXE Injection** (Content-Type Manipulation) |
+| **[Bad Feedback 100](./Bad-Feedback)** | 🕸️ Web Exploitation | 🟠 Medium | **XXE Injection** (Content-Type Manipulation) |
 | **[Nitro Automation](./Nitro%20Automation)** | 🐍 Scripting | 🟠 Medium | **Python Automation** (`requests` + Regex) vs Strict Timeout |
 
 ---
